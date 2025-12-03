@@ -1,0 +1,40 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.hero-section {
+  text-align: center;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+  color: #1e293b;
+}
+
+.hero-section h1 span {
+  color: #2563eb;
+}
+
+.hero-section p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #334155;
+}
+
+.cta-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.cta-btn:hover {
+  background-color: #1e40af;
+}
