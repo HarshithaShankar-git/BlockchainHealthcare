@@ -51,11 +51,6 @@ WeCare is a decentralized health monitoring system where patient medical records
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 📌 How to Run (Short Overview)
 
 To run the project locally you need:
