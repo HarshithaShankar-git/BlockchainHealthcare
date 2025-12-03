@@ -53,3 +53,26 @@ WeCare is a decentralized health monitoring system where patient medical records
 
 ## 📁 Project Structure
 
+
+---
+
+## 📌 How to Run (Short Overview)
+
+To run the project locally you need:
+
+**Ganache + MetaMask + Truffle + IPFS (optional) + React app**
+
+But this README focuses only on repo documentation, not steps to execute.
+
+---
+
+## 👤 Team Members  
+- **Harshitha S** — 1RN22CY018  
+- **Priyadarshini S** — 1RN22CY031  
+- **Yamini C** — 1RN22CY051  
+
+### **Guide:** Dr. Kiran P (HOD)
+
+---
+
+
